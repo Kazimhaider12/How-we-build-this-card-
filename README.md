@@ -18,6 +18,7 @@ Here’s how I transformed a simple metric into a powerful KPI card in Power BI 
 <img width="1590" height="828" alt="P5" src="https://github.com/user-attachments/assets/e88790ba-14c3-4288-a827-b2ba8a02c1ba" />
 <img width="372" height="839" alt="P6" src="https://github.com/user-attachments/assets/2bfb49e1-21c6-47f0-a7b7-a79591f8e9ee" />
 
+Follow these Steps
 
 ✅ The result? A KPI card that doesn’t just show $19.79M Total Profit — it tells the story of growth, monthly trends, and targets in one glance.
 💡 Takeaway: A well-built KPI card is more than a number. It’s a decision-making tool that blends data accuracy with visual storytelling.
